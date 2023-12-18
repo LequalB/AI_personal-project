@@ -1,0 +1,2 @@
+# AI_personal-project
+personal project_image_segmentation_finetuning
